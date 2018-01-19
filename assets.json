@@ -63,6 +63,18 @@
     "color": "#3EB13E"
   },
   {
+    "name": "dai",
+    "properName": "Dai",
+    "decimals": 18,
+    "displayUnit": "DAI",
+    "shapeShiftUnit": "dai",
+    "blockExplorer": "Dai",
+    "addresses": {
+        "current": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+    },
+    "color": "#F6CD04"
+  },
+  {
     "name": "district0x",
     "properName": "District0x",
     "decimals": 18,
